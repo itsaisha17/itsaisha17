@@ -20,7 +20,7 @@ I combine tech with creativity to build sustainable and impactful solutions like
 
 - ✨ Fun Fact: I run a thrift store on Instagram and design creative government projects too.
 
-- 📫 Reach me at: <a href="mailto:ayeshabhatt.dev@gmail.com">ayeshabhatt.dev@gmail.com</a>
+- 📫 Reach me at:
 
 <br>
 
