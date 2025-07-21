@@ -10,5 +10,4 @@
 📊 Currently learning more about Salesforce automation, data analytics, and Python DSA.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Ayesha's github stats](https://github-readme-stats.vercel.app/api?username=ayeshabhatt123&count_private=true&show_icons=true&theme=radical)
-[GitHub Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsaisha17)](https://github.com/anuraghazra/github-readme-stats)
