@@ -1,27 +1,66 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center">
+  <span style="color:#ffb6c1;">Hi there, I'm</span> 
+  <a href="https://github.com/itsaisha17">
+    <span style="color:#ff69b4;">Ayesha Bhatt</span>
+  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/itsaisha17">Ayesha Bhatt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&width=500&lines=Data+Science+Undergrad!!;AI+%7C+MachineLearning+%7C+Gen+AI;Building+Impactful+Tech+✨">
+</p>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsaisha17&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
-<img align="right" width=200px alt="Smart Work" src="https://media.tenor.com/n9bTS5MkeWcAAAAC/future-ai.gif"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5714c8c-9157-4a4f-b430-5535f5348656" width="400">
+</p>
 
-I'm a **Data Science undergrad** at SRMIST NCR Campus, passionate about AI, IoT, and embedded intelligence.  
-I combine tech with creativity to build sustainable and impactful solutions like **UrbanNest** (AI terrace farming) and **CO₂/heat detection drones**.
+---
 
-- 💻 Currently learning:  
-  - Salesforce automation (Flows, Apex, Validation Rules)  
-  - Python DSA and Data Analysis
+<h2>
+  <img src="https://github.com/user-attachments/assets/2a2decfc-6e81-46b8-8a31-bee49bd5ec36" width="30">
+  <span style="color:#c71585;">About Me</span>
+</h2>
 
-- 🌱 Exploring:  
-  - Smart agriculture, Edge AI, Sustainable tech  
-  - Thrift-based business + Design workflows
+<img align="right" width="200" src="https://media.tenor.com/n9bTS5MkeWcAAAAC/future-ai.gif"/>
 
-- ✨ Fun Fact: I run a thrift store on Instagram and design creative government projects too.
+<span style="color:#ffb6c1;">
+I'm a <b style="color:#ff69b4;">Data Science undergrad</b> at SRMIST NCR Campus, passionate about AI, IoT, and embedded intelligence.  
+I build creative + impactful solutions like <b style="color:#ff69b4;">UrbanNest</b> and <b style="color:#ff69b4;">CO₂ detection drones</b>.
+</span>
 
-- 📫 Reach me at:
+<ul style="color:#ffb6c1;">
+  <li>💻 <b style="color:#ff69b4;">Currently learning</b>
+    <ul>
+      <li>Salesforce automation</li>
+      <li>Python DSA & Data Analysis</li>
+    </ul>
+  </li>
 
+  <li>🌱 <b style="color:#ff69b4;">Exploring</b>
+    <ul>
+      <li>Edge AI & Smart Agriculture</li>
+      <li>Creative tech + business workflows</li>
+    </ul>
+  </li>
+
+  <li>✨ <b style="color:#ff69b4;">Fun Fact</b>  
+  I run a thrift store & design creative gov projects
+  </li>
+</ul>
+
+---
+
+
+<p>
+  📫 <b style="color:#ff69b4;">Reach me at:</b>
+  <a href="https://www.linkedin.com/in/ayesha-bhatt-271625278/">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 <br>
 
 <!-- Profile Trophies -->
@@ -63,8 +102,8 @@ I combine tech with creativity to build sustainable and impactful solutions like
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsaisha17&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaisha17&theme=nightowl&hide_border=false" />
+    <img width="480" height="333" alt="giphy (9)" src="https://github.com/user-attachments/assets/88905c0a-d44b-4e6d-b2a4-4d9aa1016477" />
+    <img src="https://streak-stats.demolab.com?user=itsaisha17&theme=transparent&ring=ff69b4&fire=ff69b4&currStreakLabel=ffb6c1">
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=itsaisha17&theme=nightowl&hide_border=false&langs_count=10"/>
