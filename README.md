@@ -62,8 +62,15 @@ I build creative + impactful solutions like <b style="color:#ff69b4;">UrbanNest<
   </li>
 </ul>
 
----
 
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsaisha17/itsaisha17/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 <!-- Reach Me -->
 <p align="center">
